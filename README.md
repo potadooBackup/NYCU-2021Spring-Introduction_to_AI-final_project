@@ -11,12 +11,12 @@ News Popularity in Multiple Social Media Platforms Data Set
 Nuno Moniz and LuÃ­s Torgo (2018), â€œMulti-Source Social Feedback of Online News Feedsâ€, CoRR, [Web Link](https://archive.ics.uci.edu/ml/datasets/News+Popularity+in+Multiple+Social+Media+Platforms)
 
 @Article{Moniz2018,
-title = {Multi-Source Social Feedback of Online News Feeds},
-author = {Nuno Moniz and Luâ€™is Torgo},
-year = {2018},
-ee = {[Web Link]},
-volume = {[Web Link]},
-journal = {CoRR},
+         title = {Multi-Source Social Feedback of Online News Feeds},
+         author = {Nuno Moniz and Luâ€™is Torgo},
+         year = {2018},
+         ee = {[Web Link](https://arxiv.org/abs/1801.07055)},
+         volume = {[Web Link](https://archive.ics.uci.edu/ml/datasets/abs/1801.07055)},
+         journal = {CoRR},
 }
 
 ### Result
