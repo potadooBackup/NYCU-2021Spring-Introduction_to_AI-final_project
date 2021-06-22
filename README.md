@@ -7,8 +7,9 @@
 ![messageImage_1624362231117](https://user-images.githubusercontent.com/55138138/122919034-5c2bea80-d392-11eb-8c99-2a08a8d773f4.jpg)
 
 ### Dataset
-News Popularity in Multiple Social Media Platforms Dataset
+[1] News Popularity in Multiple Social Media Platforms Dataset
 from Nuno Moniz and LuÃ­s Torgo (2018), â€œMulti-Source Social Feedback of Online News Feedsâ€, CoRR, [Web Link](https://archive.ics.uci.edu/ml/datasets/News+Popularity+in+Multiple+Social+Media+Platforms)
+[2] New York Times Articles & Comments (2020) [Link](https://www.kaggle.com/benjaminawd/new-york-times-articles-comments-2020?select=test.csv)
 
 ### Pretrained Model
 
