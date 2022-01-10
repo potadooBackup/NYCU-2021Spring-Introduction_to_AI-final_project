@@ -16,5 +16,3 @@ from Nuno Moniz and LuÃ­s Torgo (2018), â€œMulti-Source Social Feedback of
 
 GoogleNews-vectors-negative300 [Link](https://code.google.com/archive/p/word2vec/)
 
-### Result
-![result](https://user-images.githubusercontent.com/55138138/122920997-93030000-d394-11eb-9fc2-7729f277ebb3.png)
